@@ -1,5 +1,8 @@
 # Anime
 
 # Anime China
-
+#狐妖小红娘 镜花缘篇
+Fox Spirit Matchmaker S12 => Fox Spirit Matchmaker S01
+(?<=Fox.Spirit.Matchmaker.*?)S12E(?=.*ADWeb) => S01E && S01E  <> 2024 >> EP+157
+(?<=Fox.Spirit.Matchmaker.*?)2024(?=.*ADWeb) => 2015
 # Anime Others
