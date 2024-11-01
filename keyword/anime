@@ -13,6 +13,7 @@ One.Piece.S01E(89[2-9]|9[0-9]{2}|10[0-8][0-9]|1088)\b => 海贼王 S21E\1
 One\.Piece\.S01E(87[8-9]|88[0-9]|891)\b => 海贼王 S20E\1
 ## 真的要结婚吗
 Kekkon.Suru.tte.Hontou.desu.ka.365.Days.To.The.Wedding => {[tmdbid=230189;type=tv;s=1]}
+Kekkon Suru tte Hontou desu ka 365 Days To The Wedding => {[tmdbid=230189;type=tv;s=1]}
 ## 乱马
 Ranma.S01(?=.*2024) => Ranma.1/2.S01
 # Anime China
