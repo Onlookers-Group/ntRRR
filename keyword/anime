@@ -13,6 +13,9 @@ One.Piece.S01E(89[2-9]|9[0-9]{2}|10[0-8][0-9]|1088)\b => 海贼王 S21E\1
 One\.Piece\.S01E(87[8-9]|88[0-9]|891)\b => 海贼王 S20E\1
 ## 乱马
 Ranma.S01(?=.*2024) => Ranma.1/2.S01
+
+## 地缚少年花子君 2
+Jibaku.Shounen.Hanakokun.2.S01 => Jibaku.Shounen.Hanakokun.S02
 # Anime China
 ## 永生【ADWeb订阅第四季】
 IMMORTALITY.S01(?=.*E(4[1-9]|5[0-6]).*ADWeb) => IMMORTALITY.S04 && S04 <> 2022 >> EP-40 
@@ -43,5 +46,6 @@ Apotheosis.?S02E(?=.*ADWeb) => Apotheosis S01E && Apotheosis S01E <> 2023 >> EP+
 Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 吞噬星空.第3季.Swallowed.Star.S03 => 吞噬星空.第1季.Swallowed.Star.S01
 吞噬星空.第2季.Swallowed.Star.S02 => 吞噬星空.第1季.Swallowed.Star.S01   
+
 
 # Anime Others
