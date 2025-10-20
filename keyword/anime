@@ -48,7 +48,7 @@ Swallowed.Star.S04 => Swallowed.Star.S01 && S01 <> 2020 >> EP+85
 吞噬星空.第2季.Swallowed.Star.S02 => 吞噬星空.第1季.Swallowed.Star.S01   
 
 ## 一拳超人（2015）第三季
-One-Punch.Man.S03(?=.*E(2[6-9]|3[0-9]).*NF.*ADWeb) => One-Punch.Man.S03 <> 2025 >> EP-24
+One-Punch.Man.S03(?=.*E(2[6-9]|3[0-9]).*NF.*ADWeb) => 一拳超人 (2015){[tmdbid=63926;type=tv;s=3]}.S03E && S03E <> 2025 >> EP-24
 
 我气哭了百万修炼者.I.Upset.Millions.Of.Cultivators  => 我气哭了百万修炼者
 Futari.Daka => 双人单身露营 (2025){[tmdbid=281044;type=tv]}
