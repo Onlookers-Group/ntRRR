@@ -1,3 +1,7 @@
+# Anime
+## 一拳超人（2015）第三季
+One-Punch.Man.S03(?=.*E(2[6-9]|3[0-9]).*NF.*ADWeb) => 一拳超人 (2015){[tmdbid=63926;type=tv;s=3]}.S03 && S03 <> 2025 >> EP-24
+
 # Series China
 ## 廉政行动 (2024)
 Jade.ICAC.Investigators.2024 => 廉政行动 (2024){[tmdbid=272361;type=tv]}
