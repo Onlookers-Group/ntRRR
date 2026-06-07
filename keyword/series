@@ -2,7 +2,6 @@
 MWeb => ntRBZ
 HDV => ntRDV
 
-
 # Anime
 ## 一拳超人（2015）第三季
 One-Punch.Man.S03(?=.*E(2[6-9]|3[0-9]).*NF.*ADWeb) => 一拳超人 (2015){[tmdbid=63926;type=tv;s=3]}.S03 && S03 <> 2025 >> EP-24
@@ -33,7 +32,6 @@ Ichijouma.Mankitsugurashi => 一叠间漫画咖啡屋生活！ (2026){[tmdbid=29
 ## 一脸嫌弃表情的妹子给你看胖次 (2018) 第三季
 Iya.na.Kao.sare.nagara.Opantsu.Misete.Moraitai.Returns => 一脸嫌弃表情的妹子给你看胖次 (2018){[tmdbid=80867;type=tv;s=3]}
 
-
 # Series China
 ## 廉政行动 (2024)
 Jade.ICAC.Investigators.2024 => 廉政行动 (2024){[tmdbid=272361;type=tv]}
@@ -60,6 +58,8 @@ COURT!.COURT => COURT! (2026){[tmdbid=309663;type=tv]}
 Fan.Long => 樊笼 (2026){[tmdbid=316780;type=tv]}
 ## 危情逆恋 (2026)
 Thailand.S01 => 危情逆恋 (2026){[tmdbid=323349;type=tv;s=1]}
+## 灵魂摆渡·十年 (2026)
+The.Ferry.Man.10th.Anniversary => 灵魂摆渡·十年 (2026){[tmdbid=289147;type=tv]}
 
 # Series Japan
 ## 狮子的藏身处 (2024)
@@ -155,7 +155,6 @@ The.Light.We.Cast => 银河的一票 (2026){[tmdbid=314639;type=tv]}
 ERROR.S01 => 错误 (2026){[tmdbid=313730;type=tv;s=1]}
 ## 火星女王 (2025)
 Queen.of.Mars => 火星女王 (2025){[tmdbid=303315;type=tv]}
-
 
 # Series Korea
 ##致我的解离 (2024)
