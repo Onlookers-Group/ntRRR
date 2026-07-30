@@ -69,6 +69,9 @@ Deadly.Sins => 非份之罪 (2026){[tmdbid=276239;type=tv]}
 She.Who.Blazes => 灼灼不倾城 (2026){[tmdbid=328962;type=tv]}
 
 # Series Japan
+## Vivant (2023) 第二季
+Vivant.S01E(?=.*(1[1-9]).*ADWeb) => Vivant (2023){[tmdbid=218038;type=tv;s=2]}.S02E && S02E <> 2026 >> EP-10
+VIVANT.S01E(?=.*(1[1-9]).*ADWeb) => Vivant (2023){[tmdbid=218038;type=tv;s=2]}.S02E && S02E <> 2026 >> EP-10
 ## 大空港～GATE24～ (2026)
 GATE24.The.Border => 大空港～GATE24～ (2026){[tmdbid=323579;type=tv]}
 ## 狮子的藏身处 (2024)
@@ -166,8 +169,6 @@ ERROR.S01 => 错误 (2026){[tmdbid=313730;type=tv;s=1]}
 Queen.of.Mars => 火星女王 (2025){[tmdbid=303315;type=tv]}
 ## 你的喜欢无与伦比 (2026)
 Jun.noHao.kihaWu.Di => 你的喜欢无与伦比 (2026){[tmdbid=326064;type=tv]}
-## Vivant (2023) 第二季
-Vivant.S01E(?=.*(1[1-9]).*ADWeb) => Vivant (2023){[tmdbid=218038;type=tv;s=2]}.S02E && S02E <> 2026 >> EP-10
 
 # Series Korea
 ##致我的解离 (2024)
