@@ -75,7 +75,7 @@ She.Who.Blazes => 灼灼不倾城 (2026){[tmdbid=328962;type=tv]}
 Vivant.S01E(?=.*(1[1-9]).*ADWeb) => Vivant (2023){[tmdbid=218038;type=tv;s=2]}.S02E && S02E <> 2026 >> EP-10
 VIVANT.S01E(?=.*(1[1-9]).*ADWeb) => Vivant (2023){[tmdbid=218038;type=tv;s=2]}.S02E && S02E <> 2026 >> EP-10
 ## 大空港～GATE24～ (2026)
-GATE24.The.Border => 大空港～GATE24～ (2026){[tmdbid=323579;type=tv]}
+GATE24.The.Border.S01 => 大空港～GATE24～ (2026){[tmdbid=323579;type=tv;s=1]}
 ## 狮子的藏身处 (2024)
 Lion.No.Kakurega => 狮子的藏身处 (2024){[tmdbid=271336;type=tv]}
 ## 年龄差婚姻 (2020)
